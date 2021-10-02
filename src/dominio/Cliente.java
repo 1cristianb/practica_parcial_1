@@ -51,10 +51,7 @@ public class Cliente {
 		return "Cliente [nombre=" + nombre + ", dni=" + dni + ", arrayDeCuentas=" + Arrays.toString(arrayDeCuentas)
 				+ "]";
 	}
-	public void AlgoQueBorrar() {
-		String palabra="Prueba borrar de git";
-		
-	}
+	
 	
 
 }
